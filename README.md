@@ -32,10 +32,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/khyzhun/khyzhun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khyzhun&show_icons=true&line_height=27&count_private=true&include_all_commits=true&theme=algolia" alt="Khyzhun's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khyzhun&show_icons=true&line_height=27&count_private=true&include_all_commits=true&theme=algolia&bg_color=0e1116&icon_color=69a6f8" alt="Khyzhun's GitHub Stats" />
 </a>
 <a href="https://github.com/khyzhun/khyzhun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khyzhun&&hide=C,Cmake&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khyzhun&langs_count=3&theme=algolia&bg_color=0e1116&icon_color=69a6f8" />
 </a>
 <!--
 <a href="https://github.com/khyzhun/khyzhun">
