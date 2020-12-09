@@ -5,11 +5,11 @@
 -->
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Alexander Khyzhun,
 
-🚀 A modern Android Engineer with 6+ years of experience in software development on commercial projects, who is always one step ahead of trends. 
+🚀 A modern Android Developer with 6+ years of experience in software development on commercial projects
 
 📚 Being passionate about continuous learning, I quickly adapt to new libraries, conceptions, and programming languages. 
 
-😎 Able to create, elaborate, and neat user interfaces based on modern design principles as well as concise, effective business logic.
+😎 Able to create, elaborate, and neat UI based on modern design principles as well as concise, effective business logic.
 
 <!--
 My name is Alexander Khyzhun and I'm a software engineer from Ukraine. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
