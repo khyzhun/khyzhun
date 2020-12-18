@@ -13,9 +13,9 @@ Apart from coding, I try to express my thoughts and knowledge in my blog about A
 ## 📬 Get in Touch
 
 [<img src="ic_medium.png" width="3.5%"/>][2]
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>][1]
+[<img src="ic_twitter.png" width="3.5%"/>][1]
 [<img src="ic_telegram.png" width="3.5%"/>][4]
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>][5]
+[<img src="ic_linkedin.png" width="3.5%"/>][5]
 [<img src="ic_patreon.png" width="3.5%"/>][3]
 [<img src="https://img.icons8.com/color/48/000000/stackoverflow.png" width="3.5%"/>][8]
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>][6]
