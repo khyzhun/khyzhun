@@ -12,11 +12,12 @@ Apart from coding, I try to express my thoughts and knowledge in my blog about A
 
 ## 📬 Get in Touch
 
-[<img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" width="3.5%"/>][2]
-[<img src="https://img.icons8.com/material/24/000000/patreon.png" width="3.5%"/>][2]
-[<img src="https://img.icons8.com/color/48/000000/stackoverflow.png" width="3.5%"/>][8]
+[<img src="ic_medium.png" width="3.5%"/>][2]
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>][1]
+[<img src="ic_telegram.png" width="3.5%"/>][4]
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>][5]
+[<img src="ic_patreon.png" width="3.5%"/>][3]
+[<img src="https://img.icons8.com/color/48/000000/stackoverflow.png" width="3.5%"/>][8]
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>][6]
 <a href="mailto:alexander.khyzhun@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
