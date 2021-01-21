@@ -51,7 +51,7 @@ Apart from coding, I try to express my thoughts and knowledge in my blog about A
 [3]: https://bit.ly/khyzhun_patreon (Patreon)
 [4]: https://bit.ly/android2day (Android Blog)
 [5]: https://bit.ly/khyzhun_linkedin (LinkedIn)
-[6]: https://bit.ly/khyzhun_inst (Instagram)
+[6]: https://bit.ly/kkkhyzhun (Instagram)
 [7]: https://bit.ly/khyzhun_github (Github)
 [8]: https://bit.ly/khyzhun_stackoverflow (StackOverflow)
 
