@@ -21,14 +21,14 @@ Apart from coding, I try to express my thoughts and knowledge in my blog about A
 [<img src="ic_instagram.png" width="3.5%"/>][6]
 <a href="mailto:alexander.khyzhun@gmail.com"> <img src="ic_gmail.png" width="3.5%"/> </a>
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/khyzhun/khyzhun">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=khyzhun&show_icons=true&line_height=27&count_private=true&include_all_commits=true&theme=algolia&bg_color=0e1116&icon_color=69a6f8" alt="Khyzhun's GitHub Stats" />
 </a>
 <a href="https://github.com/khyzhun/khyzhun">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khyzhun&langs_count=3&theme=algolia&bg_color=0e1116&icon_color=69a6f8" />
-</a>
+</a> -->
 
 
 <!-- links to social media icons -->
