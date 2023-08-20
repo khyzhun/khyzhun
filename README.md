@@ -49,7 +49,7 @@ Apart from coding, I try to express my thoughts and knowledge in my blog about A
 [1]: https://bit.ly/khyzhun_twitter (Twitter)
 [2]: https://bit.ly/khyzhun_medium (Medium)
 [3]: https://bit.ly/khyzhun_patreon (Patreon)
-[4]: https://bit.ly/android2day (Android Blog)
+[4]: https://bit.ly/android2day (Telegram)
 [5]: https://bit.ly/khyzhun_linkedin (LinkedIn)
 [6]: https://bit.ly/kkkhyzhun (Instagram)
 [7]: https://bit.ly/khyzhun_github (Github)
