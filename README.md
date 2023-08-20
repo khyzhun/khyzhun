@@ -19,7 +19,7 @@ Apart from coding, I try to express my thoughts and knowledge in my blog about A
 [<img src="ic_patreon.png" width="3.5%"/>][3]
 [<img src="ic_stackoverflow.png" width="3.5%"/>][8]
 [<img src="ic_instagram.png" width="3.5%"/>][6]
-<a href="mailto:alexander.khyzhun@gmail.com"> <img src="ic_gmail.png" width="3.5%"/> </a>
+<a href="mailto:sasha.khyzhun@gmail.com"> <img src="ic_gmail.png" width="3.5%"/> </a>
 
 <!-- ## &#x1f4c8; GitHub Stats
 
