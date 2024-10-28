@@ -1,6 +1,9 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Alexander Khyzhun
 
-🚀 A modern Android Developer with 10-ish years of experience in software development on commercial projects. Being passionate about continuous learning, I quickly adapt to new libraries, conceptions, and programming languages. Able to create, elaborate, and neat UI based on modern design principles as well as concise, effective business logic.
+🚀 Dynamic and innovative Android Engineer with over ten years of experience in software development. Adept at rapidly integrating new
+libraries, concepts, and programming languages, with a strong focus on crafting sophisticated user interfaces and robust business logic.
+Expertise in object-oriented design, data structures, problem-solving, and complex architecture. Proficient in debugging and reverse
+engineering, aiming to deliver excellence in every project.
 
 
 <!--
@@ -8,7 +11,8 @@ My name is Alexander Khyzhun and I'm a software engineer from Ukraine. You can f
 -->
 
 ## &#x270d; Blog & Writing
-Apart from coding, I try to express my thoughts and knowledge in my blog about Android & Kotlin. You can support me by following on [Medium][2] or [Patreon][3] to show that it ain't useless. Every article is collected into my channel in [Telegram][4] & [Twitter][1]
+Apart from coding, I try to express my thoughts and knowledge in my blog about Android & Kotlin.
+You can support me by following on [Youtube][9], [Medium][2] or [Patreon][3] to show that I ain't useless.
 
 ## 📬 Get in Touch
 
@@ -42,7 +46,7 @@ Apart from coding, I try to express my thoughts and knowledge in my blog about A
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
+[3.3]: https://imgur.com/gallery/youtube-logo-BDjNuKl (youtube icon without padding)
 
 <!-- links to your social media accounts -->
 
@@ -54,6 +58,7 @@ Apart from coding, I try to express my thoughts and knowledge in my blog about A
 [6]: https://bit.ly/kkkhyzhun (Instagram)
 [7]: https://bit.ly/khyzhun_github (Github)
 [8]: https://bit.ly/khyzhun_stackoverflow (StackOverflow)
+[9]: https://bit.ly/khyzhun_youtube (Youtube)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
